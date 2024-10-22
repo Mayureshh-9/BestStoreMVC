@@ -1,0 +1,65 @@
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\appsettings.Development.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\appsettings.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\NextGen Devices.staticwebassets.runtime.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\NextGen Devices.exe
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\NextGen Devices.deps.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\NextGen Devices.runtimeconfig.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\NextGen Devices.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\NextGen Devices.pdb
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Humanizer.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.csproj.AssemblyReference.cache
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.AssemblyInfoInputs.cache
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.AssemblyInfo.cs
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.csproj.CoreCompileInputs.cache
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.MvcApplicationPartsAssemblyInfo.cache
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.RazorAssemblyInfo.cache
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.RazorAssemblyInfo.cs
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.NextGen Devices.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.NextGen Devices.props
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NextGen Devices.props
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NextGen Devices.props
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\scopedcss\bundle\NextGen Devices.styles.css
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\scopedcss\projectbundle\NextGen Devices.bundle.scp.css
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.csproj.CopyComplete
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\refint\NextGen Devices.dll
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.pdb
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\NextGen Devices.genruntimeconfig.cache
+E:\Dotnet API\BestStoreMVC\BestStoreMVC\obj\Debug\net6.0\ref\NextGen Devices.dll

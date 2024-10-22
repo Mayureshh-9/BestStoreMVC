@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NextGen Devices.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NextGen Devices.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products20241009203347784.jpeg",
+      "PackagePath": "staticwebassets\\products20241009203347784.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Apple vision.jpeg",
+      "PackagePath": "staticwebassets\\products\\Apple vision.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Digital thermostat.jpeg",
+      "PackagePath": "staticwebassets\\products\\Digital thermostat.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Drone.jpeg",
+      "PackagePath": "staticwebassets\\products\\Drone.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Electric Kettle.jpeg",
+      "PackagePath": "staticwebassets\\products\\Electric Kettle.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Electric toothbrush.jpeg",
+      "PackagePath": "staticwebassets\\products\\Electric toothbrush.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Game Controler.jpeg",
+      "PackagePath": "staticwebassets\\products\\Game Controler.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Gaming mouse.jpeg",
+      "PackagePath": "staticwebassets\\products\\Gaming mouse.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Home Security camera.jpeg",
+      "PackagePath": "staticwebassets\\products\\Home Security camera.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Keyboard Mechanical.jpeg",
+      "PackagePath": "staticwebassets\\products\\Keyboard Mechanical.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Laptop Stand.jpeg",
+      "PackagePath": "staticwebassets\\products\\Laptop Stand.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Mac book pro.jpeg",
+      "PackagePath": "staticwebassets\\products\\Mac book pro.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Smart Refrigerator.jpeg",
+      "PackagePath": "staticwebassets\\products\\Smart Refrigerator.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Smart ring.jpeg",
+      "PackagePath": "staticwebassets\\products\\Smart ring.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Smart tv Stick.jpeg",
+      "PackagePath": "staticwebassets\\products\\Smart tv Stick.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\SmartBulb.jpeg",
+      "PackagePath": "staticwebassets\\products\\SmartBulb.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Webcam Hd.jpeg",
+      "PackagePath": "staticwebassets\\products\\Webcam Hd.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Wireless router.jpeg",
+      "PackagePath": "staticwebassets\\products\\Wireless router.jpeg"
+    },
+    {
+      "Id": "E:\\Dotnet API\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\smartPhone.avif",
+      "PackagePath": "staticwebassets\\products\\smartPhone.avif"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NextGen Devices.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NextGen Devices.props",
+      "PackagePath": "build\\NextGen Devices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NextGen Devices.props",
+      "PackagePath": "buildMultiTargeting\\NextGen Devices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NextGen Devices.props",
+      "PackagePath": "buildTransitive\\NextGen Devices.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
